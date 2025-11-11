@@ -20,7 +20,7 @@ CISCO_PHONE = "172.16.160.55"
 CISCO_USER = "test"
 CISCO_PASS = "test"
 
-WAV_FILE = "/var/lib/asterisk/sounds/en/demo-congrats.wav"
+WAV_FILE = "/home/moon/BRC-Paging-Test-1.wav"
 PORT = 20480
 TIMEOUT = 3
 
